@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/vuforia_pro.unity
+  isLoaded: 1
+  isActive: 1
